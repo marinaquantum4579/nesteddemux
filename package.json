@@ -1,0 +1,12 @@
+{
+  "name": "push-notifier-ab4c12",
+  "version": "1.0.0",
+  "description": "A push-notifier utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["push-notifier", "utility"],
+  "license": "MIT"
+}
